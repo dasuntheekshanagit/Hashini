@@ -1,0 +1,57 @@
+h1{ 
+    color: blue;
+    text-align: center;
+    font-size: large
+}
+
+h2{color: crimson;
+    font-size: larger;
+    color: deepskyblue;
+    text-align: left;
+
+}
+        
+img{
+    width: 200;
+    height:200;
+    border-radius: 50%;
+    
+
+}
+body{
+    background-image: url(IMG-20230512-WA0029.jpg);
+} 
+
+#dahami{
+    
+    text-align: cente
+  
+}
+#sala{
+    
+    text-align: center;
+}
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+td
+td{
+    border: 1px solid black
+}
+th{
+    border: 1px solid rgb(195, 180, 180);
+}
+#lmn{
+    text-align: right;
+    width: 400px;
+    height: 400px;
+}
+#dahami:hover{
+-webkit-anymation-name:anymation;
+-webkit-animation-duraion:2s;
+-webkit-animation-delay: 0.5s;
+-webkit-animation-fill-mode: forwards;
+-webkit-transition-timing-function: ease-in-out;
+}
+    
